@@ -1,3 +1,8 @@
+### Data files ###
+*.csv
+*.npy
+*.npz
+
 ### Python Stuff ###
 
 # Byte-compiled / optimized / DLL files
